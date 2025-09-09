@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kosci</string>
+    <string name="kostka_nr_5">Kostka nr 5</string>
+    <string name="kostka_nr_4">Kostka nr 4</string>
+    <string name="kostka_nr_3">Kostka nr 3</string>
+    <string name="kostka_nr_2">Kostka nr 2</string>
+    <string name="kostka_nr_1">Kostka nr 1</string>
+    <string name="rzut_koscmi">Rzuć!</string>
+    <string name="gra_w_kosci">Gra w kości</string>
+    <string name="suma_oczek_0">Suma oczek: 0.</string>
+    <string name="reset">RESET</string>
+    <string name="suma_ogolna_0">Suma ogolna: 0.</string>
+    <string name="ilosc_prob_0">Ilość prób: 0.</string>
+    <string name="wylosowane_liczby">Wylosowane liczby: 0, 0, 0, 0, 0,</string>
+</resources>
